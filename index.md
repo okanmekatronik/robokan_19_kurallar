@@ -1,6 +1,8 @@
 ![Kurallar](img/genel.png)
 
-# Genel Kurallar tüm kategorileri kapsamaktadır.
+# Robokan'19 Genel Kuralları
+
+-  Genel Kurallar tüm kategorileri kapsamaktadır.
 
 ### Yarışmanın Genel Amacı
  
