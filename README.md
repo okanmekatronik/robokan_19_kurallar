@@ -6,4 +6,4 @@ Robokan'19 Robot Yarışması için kurallara buradan ulaşabilirsiniz.
 
 Eğer kurallarda bbir problem olduğunu düşünüyorsanız issues sekmesinden bize iletebilirsiniz
 
-[Robokan Genel Kurallar](index.md)
+[Robokan Genel Kurallar](genel_kurallar.md)
