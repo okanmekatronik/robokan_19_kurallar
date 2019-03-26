@@ -2,7 +2,7 @@
 
 ## Genel Kurallar tüm kategorileri kapsamaktadır.
 
-###Yarışmanın Genel Amacı
+### Yarışmanın Genel Amacı
  
 Okan Üniversitesi Mekatronik Kulübü tarafından ikinci kez düzenlenecek olan ROBOKAN'18 Yarışması Dünyanın dört bir yanından öğrencilerin ve meraklıların katılabileceği bir uluslararası robot yarışmasıdır.
 
@@ -10,7 +10,7 @@ A) Katılım Şartları
 
 1. Yarışmaya katılmak için herhangi bir koşul (lise, üniversite, yaş sınırı gibi her hangi bir koşul) aranmamaktadır. Genel ve kategori kurallarına uyulduğu sürece yarışma tüm kamuya açıktır. Herkes istediği kadar kategoride yarışmacı olabilir.
 2. ROBOKAN’a kayıt yaptıran ve katılan her kişinin tüm kuralları okuduğu ve kabul ettiği varsayılır. Kurallara uyulmaması halinde katılımcılar diskalifiye edilebilir.
-3. Kayıtların başlangıç tarihi https://okanmekatronik.com/ web adresinden ve “Okan Mekatronik” mobil uygulaması üzerinden duyurulacaktır.
+3. Kayıtların başlangıç tarihi https://robokan.com/ web adresinden ve “Okan Mekatronik” mobil uygulaması üzerinden duyurulacaktır.
 4. Ön Kayıtlar “Okan Mekatronik” uygulaması üzerinden yapılacaktır. Yarışmacıların uygulamada kullanıcı hesabı oluşturduktan sonra Etkinlikler kısmından ROBOKAN’18 e katılmaları ve istenen bilgileri eksiksiz doldurmaları gerekmektedir. Bu konuda nasıl kayıt olunduğunu anlatan görsel web sitemize yüklenecektir.
 5. Kayıtlar her sene yenilenmektedir. Önceki organizasyonlardan herhangi birinde yarışmacı olmuş kişilerin kayıt adımlarını bir kez daha en baştan tekrarlaması gerekmektedir.
 6. Uygulama üzerinden kayıt olan yarışmacıların, organizasyon günü kurulacak olan kayıt masasından kayıtlarını onaylatmaları ve katılımcı kartlarını almaları gerekmektedir.
