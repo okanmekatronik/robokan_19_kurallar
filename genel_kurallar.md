@@ -27,30 +27,30 @@ Okan Üniversitesi Mekatronik Kulübü tarafından dördüncü kez düzenlenecek
 	8. Okul ya da grupların izin almadan (broşür, afiş, roll-up vb.) reklam içerikli tanıtım yapmaları yasaktır.
 3. Yarışma Kuralları ve İtirazları
 	1. Yarışmaya katılacak her robottan bir kişi sorumludur.
-	2. Bir kişi her bir kategoride en fazla 3 robottan sorumlu olabilir. (Bir kişinin 7 kategoriye  de katıldığını varsayarsak kategori başına 3 robottan hesaplandığında toplamda 21 robot ile katılabilir. Aynı kişinin bir kategoriye ait 3’den fazla robotu var ise, diğer robotlarını başka biri adına kayıt ettirmek zorundadır.)
+	2. Bir kişi her bir kategoride en fazla 3 robottan sorumlu olabilir. (Bir kişinin 7 kategoriye de katıldığını varsayarsak kategori başına 3 robottan hesaplandığında toplamda 21 robot ile katılabilir. Aynı kişinin bir kategoriye ait 3’den fazla robotu var ise, diğer robotlarını başka biri adına kayıt ettirmek zorundadır.)
 	3. Yarışmacılar, yarışma alanına gelirken kendilerine kayıt esnasında verilen katılımcı kartlarını yanlarında bulundurmak zorundadırlar. 
 	4. Yarışmacılar kayıt esnasında robotlarının altına yapıştırılacak barkoda zarar veremezler. Robotlar yarışma öncesinde kontrol edilecek olup, barkodun zarar görmüş olması ya da robotun yarışmacı ile eşleşmemesi durumlarında robot ya da yarışmacı diskalifiye edilebilir.
 	5. Organizasyonda yarışan robotlar güç kaynaklarını üstlerinde taşımak zorundadırlar.
-	6. Serbest Kategori haricindeki kategorilerde yarışan bütün robotlar otonom olmak  zorundadır.
-	7. İsminde aşağılayıcı, hakaret edici, müstehcen ve müstehcen çağrışımlar yapan sözler  içeren robotların kayıtları organizasyon sırasında onaylanmayacaktır. Kayıt esnasında olası bir uyarı ile robot isminin yarışmacı tarafından değiştirilmesi istenecek, robot uygun bir isim ile yeniden kayıt edilebilecektir.
+	6. Serbest Kategori haricindeki kategorilerde yarışan bütün robotlar otonom olmak zorundadır.
+	7. İsminde aşağılayıcı, hakaret edici, müstehcen ve müstehcen çağrışımlar yapan sözler içeren robotların kayıtları organizasyon sırasında onaylanmayacaktır. Kayıt esnasında olası bir uyarı ile robot isminin yarışmacı tarafından değiştirilmesi istenecek, robot uygun bir isim ile yeniden kayıt edilebilecektir.
 	8. Yarışmalardan önce veya sonra, rakibi veya hakemi aşağılayıcı hareketlerde bulunan yarışmacılar katıldıkları bütün yarışmalardan elenir.
 	9. Yarışma kuralları altında belirtilen robot özelliklerini sağlamayan robotlar yarışmalara kesinlikle katılamazlar.
 	10. Tüm pistlerimiz ± %5 toleranslıdır. Robotlarınızı bunu dikkate alarak yapmanızı rica ederiz.
 	11. Pistlerde ±2 mm yüksekliğinde veya derinliğinde girintiler ve çıkıntılar olabilir.
 	12. Pistlerde kullanılan malzemeler dekota, mdf, pleksiglas, sac veya sunta olabilir.
 	13. Yarışmalar boyunca, herhangi bir sebeple pistlere zarar veren robotlar bulundukları yarışmadan elenir.
-	14. Y arışmalarda kullanılan elektromekanik sistemlerin robotlara zarar vermesi durumunda sorumluluk OMK ekibine ait değildir, itirazlar değerlendirilmez.
+	14. Yarışmalarda kullanılan elektromekanik sistemlerin robotlara zarar vermesi durumunda sorumluluk OMK ekibine ait değildir, itirazlar değerlendirilmez.
 	15. Yarışma sırasında piste koyma ve yarıştırma işlemini sadece robotun kaydını yapan kişi yapabilir.
 	16. Sitedeki kurallarda belirtilmeyen bütün durumlarda tek yetkili yarışma hakemleridir.
-	17. Sıralamayı etkileyebilecek bir durumda yarışma hakemi yarışmacılara sormadan bir  robotu ya da tüm robotları tekrar yarıştırabilir.
-	18. Robotlara ilgili kategorilerdeki müdahale hakları sıkıştığı yerden kurtarma şeklinde  olacaktır.
+	17. Sıralamayı etkileyebilecek bir durumda yarışma hakemi yarışmacılara sormadan bir robotu ya da tüm robotları tekrar yarıştırabilir.
+	18. Robotlara ilgili kategorilerdeki müdahale hakları sıkıştığı yerden kurtarma şeklinde olacaktır.
 	19. Yarışma sırasında yayınlanan puan ve sıralamalar resmi sonuçlar değildir.
-	20. Yarışma esnasında hakemlere soru sorma ve görüş belirtme hakkı sadece yarışan  robotun sorumlusuna aittir. Robot sorumlusu dışında kalan kişilerin yarışmaya müdahale etmesi yasaktır. Böyle bir durumda itiraz etmeyi sürdüren kişi diskalifiye edilebilir.
+	20. Yarışma esnasında hakemlere soru sorma ve görüş belirtme hakkı sadece yarışan robotun sorumlusuna aittir. Robot sorumlusu dışında kalan kişilerin yarışmaya müdahale etmesi yasaktır. Böyle bir durumda itiraz etmeyi sürdüren kişi diskalifiye edilebilir.
 	21. Yarışma esnasında sonuçlara itirazda bulunmak yarışmanın düzenini bozacak ve aksatacağından dolayı yasaktır.
 	22. Hakeme yapılan itirazlar karşısında hakemler, ceza verme ya da diskalifiye etme hakkına sahiptir.
 	23. Pistlerin konumu, salonun ışık seviyesi gibi konulardaki itirazlar değerlendirilmez.
-	24. Her hangi bir itirazda bulunmak isteyen yarışmacıların itirazlarınıyazılı olarak kriz  masasına yapmaları gerekmektedir. Yapılan itirazlar sadece kriz masası tarafından  değerlendirilecektir.
-	25. Aynı konuda daha önce reddedilen bir itiraz tekrar yapılamaz. Aynı itirazı yineleyen  kişiler diskalifiye edilecektir.
-	26. Kurallara uygun olarak yapılmayan itirazlar kesinlikle değerlendirmeye  alınmayacaktır.
+	24. Her hangi bir itirazda bulunmak isteyen yarışmacıların itirazlarınıyazılı olarak krizmasasına yapmaları gerekmektedir. Yapılan itirazlar sadece kriz masası tarafından değerlendirilecektir.
+	25. Aynı konuda daha önce reddedilen bir itiraz tekrar yapılamaz. Aynı itirazı yineleyen kişiler diskalifiye edilecektir.
+	26. Kurallara uygun olarak yapılmayan itirazlar kesinlikle değerlendirmeye alınmayacaktır.
 
 > Okan Üniversitesi Mekatronik Kulübü, herhangi bir gerekçe vermeden gerektiğinde kurallarda değişiklik yapma hakkını saklı tutar.
