@@ -4,7 +4,7 @@
 
 ### Diğer kategorilerde olduğu gibi Arazi Robotu Kategorisinde de Genel Kurallar geçerlidir.
 
-### Yarışmanın Amacı
+### Yarışmanın Amacı
 Yarışmanın amacı çeşitli engellerden oluşan parkuru en kısa sürede, en çok puanı toplayarak tamamlamaktır.  
 
 1. Robot Kuralları 
