@@ -1,6 +1,6 @@
 ![Kurallar](img/genel.png)
 
-# Robokan'19 Serbbest Kategorisi Kuralları
+# Robokan'19 Serbest Kategorisi Kuralları
 
 ### Diğer kategorilerde olduğu gibi Serbest Kategorisinde de Genel Kurallar geçerlidir.
 
