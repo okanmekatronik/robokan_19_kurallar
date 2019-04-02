@@ -14,11 +14,11 @@
 
     1. Eleme ve final pisti aynı pisttir.
     2. Yollar siyah üzerine beyaz çizgi şeklindedir.
-    3. Toplam yol 400*4 mm genişliğinde, 20000mm (20metre), 5 mm  kalınlığında  siyah mat dekota malzemeden yapılmıştır.
+    3. Toplam yol 390*4 mm (toplam 1560mm±20m) genişliğinde, 20000mm (20metre), 5 mm  kalınlığında  siyah mat dekota malzemeden yapılmıştır.
     4. Beyaz alanın sonunda duramayan robotlar için yumuşatılmış bariyer vardır.
     5. Beyaz çizgiler 20±2 mm kalınlığında olacaktır.
-    6. Her bir çizgi izleyen robot için ortasında çizgi olan 400 mm genişliğinde kulvar bulunmaktadır.
-    7. Çizgi izleyen robotlar için başlangıç çizgisi bulunmaktadır. Başlangıç çizgisi pist başlangıcından 300 mm içeridedir . Bitiş çizgisi yolun sonundan 300mm içeride bulunmaktadır.
+    6. Her bir çizgi izleyen robot için ortasında çizgi olan 390 mm genişliğinde kulvar bulunmaktadır.
+    7. Çizgi izleyen robotlar için başlangıç çizgisi bulunmaktadır. Başlangıç çizgisi pist başlangıcından 500 mm içeridedir . Bitiş çizgisi yolun sonundan 300mm içeride bulunmaktadır.
     8. Bitiş çizgisi hizasında, her bir parkurdaki robot için, 200 mm yukarısında sensörler bulunmaktadır.
 
 
