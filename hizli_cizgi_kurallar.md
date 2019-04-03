@@ -22,12 +22,8 @@
   7. Çizgi izleyen robotlar için başlangıç çizgisi bulunmaktadır. Başlangıç çizgisi pist başlangıcından 500 mm içeridedir . Bitiş çizgisi yolun sonundan 300mm içeride bulunmaktadır.
   8. Bitiş çizgisi hizasında, her bir parkurdaki robot için, 200 mm yukarısında sensörler bulunmaktadır.
 
-
 
-
-
-
-
+![Pist](img/hizli1 copy.jpg)
 Şekil 1: Hızlı çizgi izleyen parkur numaraları
 
 
