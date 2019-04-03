@@ -23,13 +23,10 @@
   8. Bitiş çizgisi hizasında, her bir parkurdaki robot için, 200 mm yukarısında sensörler bulunmaktadır.
 
 
-![Pist](img/hizli1 copy.jpg)
+![Hizli](img/hizli1.jpg)
 Şekil 1: Hızlı çizgi izleyen parkur numaraları
 
-
-
-
-
+![Hizli2](img/hizli2.jpeg)
 Şekil-2: Hızlı Çizgi İzleyen pisti 3D görüntüsü
 
 ### Yarışmalar
