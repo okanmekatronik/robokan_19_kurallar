@@ -41,7 +41,7 @@
 
   6.	Yarışma sırasında robotların 3 start hakkı vardır. Robot  tüm haklarını kullanıp start yapamadığı takdirde diskalifiye olur.
 
-  C)	Kategori Beklentileri
+  ## C)	Kategori Beklentileri
   1.	Robotlarda kullanılan sensörlerin parazit almaması amacıyla yarışların yapıldığı salon içerisinde hiçbir  elektronik  cihaz vasıtasıyla flaşlı çekim yapılamaz. Yarışmacıların ve seyircilerin bu konuda özen göstermeleri ve ısrarcı olmamalarını rica ederiz.
 
   2.	Robotların pist dışı unsurlardan etkilenmemesi adına uzaklık sensörlerinin 30 cm’den daha uzak mesafelere tepki vermemesi tavsiye edilir. Bununla ilgili itirazlar dikkate alınmayacaktır.
