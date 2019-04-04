@@ -127,7 +127,7 @@
   ![Son](img/tahtabeyaz.jpeg)
   
   
-  
+  ![Yanıltma](sasirt.png)
   
   
   
