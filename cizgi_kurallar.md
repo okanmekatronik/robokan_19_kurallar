@@ -64,8 +64,9 @@
   6.	Robot pistten çıktığında (yoldan tamamen çıkıp, normal zemine inmesi), çıktığı yerden piste tekrar konulur, bu arada  süre  durdurulur. Robot pisti tamamen terk etmediği sürece robota müdahale edilemez. Bu hak yalnızca hakemler tarafından verilebilir. Bu durumda robota 5 saniye yoldan çıkma cezası verilir.
 
   7.	Pist üzerinde, gitmeniz gereken doğru yolu gösteren kısa çizgiler vardır. Örneğin gitmeniz gereken doğru yol sol taraftan ise kısa çizgi orta çizginin sağından dekotanın bitişine kadardır. Bu kısa çizgi, girişlerden 15 cm önce bulunmaktadır.
-  E)	Eleme Pisti Çizimi ve Ölçüleri
   
+  E)	Eleme Pisti Çizimi ve Ölçüleri
+     ![Dim_eleme](img/el_olc.jpg)
   
   F)	Final Pisti Kuralları ve Pist Özellikleri
   1.	Final pistindeki yollar siyah dekota üzerinde beyaz çizgi ve/veya beyaz dekota üzerinde siyah çizgi şeklindedir.
