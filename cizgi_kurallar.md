@@ -103,6 +103,21 @@
   
   G) Final Pisti Çizimi ve Ölçüleri
   
+  
+  
+  
+  ![Dimfinal1](img/fin-olc.jpg)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![Dimfin2](img/fin-gidis.jpg)
+  
 
 
 
