@@ -10,6 +10,7 @@
    
    
 ## A)	Yarışma Kuralları
+
   1.	Her robot sırayla yarışır, bu sıralama yarışma günü web sitesinde duyurulur.
 
   2.	Yarışlar eleme pisti için başlangıç çizgisinde başlar, bitiş çizgisinde biter. Final pisti için de başlangıç çizgisinde başlar, bir tam tur sonucunda başlangıç çizgisinde biter.
@@ -48,9 +49,7 @@
   2.	Robotların pist dışı unsurlardan etkilenmemesi adına uzaklık sensörlerinin 30 cm’den daha uzak mesafelere tepki vermemesi tavsiye edilir. Bununla ilgili itirazlar dikkate alınmayacaktır.
 
   3.	Robotlar darbelere dayanıklı yapılmalıdır. Yarışma sırasında robotlara gelen maddi zararlarda hakemler itiraz ve  sorumluluk  kabul etmez.
-    
-    
-    
+        
 ## D)	Eleme Pisti Kuralları ve Pist Özellikleri
     
   1.	Eleme pistindeki yollar siyah dekota üzerine beyaz çizgi şeklindedir.
@@ -73,6 +72,7 @@
   ![Dim eleme1](img/el_gidis.jpg)
   
 ## F)	Final Pisti Kuralları ve Pist Özellikleri
+
   1.	Final pistindeki yollar siyah dekota üzerinde beyaz çizgi ve/veya beyaz dekota üzerinde siyah çizgi şeklindedir.
 
   2.	Yol 400 mm genişliğinde 3 mm kalınlığında siyah ve beyaz dekota malzemeden yapılmıştır.
@@ -90,7 +90,6 @@
 
   9.	Robot pistten çıktığında (yoldan tamamen çıkıp, normal zemine inmesi), çıktığı yerden piste tekrar konulur, bu arada  süre  durdurulur. Robot pisti tamamen terk etmediği sürece robota müdahale edilemez. Bu hak yalnızca hakemler tarafından verilebilir. Bu durumda robota 5 saniye yoldan çıkma cezası verilir. Toplamda 20 defa yoldan çıkma cezası alan robot diskalifiye edilir.
 
-
   10.	Pistte bir adet (±2) 9° lik yukarıya doğru rampa vardır. Ve bu rampanın belirli bir kısmında kesik çizgi mevcuttur.
 
   11.	Rampanın bitiminde etrafı tamamen kapalı bir tünel bulunmaktadır. Bu tünel içerisine beyaz ledler ile aydınlatma yapılacaktır. Tünel içerisinde robotun pistten çıkması durumunda 9. maddedeki yoldan çıkma cezası uygulanır.
@@ -105,9 +104,6 @@
   16.	Pistte bazı yerlerde yanıltıcı çizgi bulunmaktadır. İki çizgi arası boşluk 2 cm’dir.
   
 ## G) Final Pisti Çizimi ve Ölçüleri
-  
-  
-  
   
   ![Dimfinal1](img/fin-olc.jpg)
   
