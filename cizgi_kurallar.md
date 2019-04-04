@@ -66,8 +66,10 @@
   7.	Pist üzerinde, gitmeniz gereken doğru yolu gösteren kısa çizgiler vardır. Örneğin gitmeniz gereken doğru yol sol taraftan ise kısa çizgi orta çizginin sağından dekotanın bitişine kadardır. Bu kısa çizgi, girişlerden 15 cm önce bulunmaktadır.
   
   ## E)	Eleme Pisti Çizimi ve Ölçüleri
-     ![Dim_eleme](img/el_olc.jpg)
-     ![Dim eleme1](img/el_gidis.jpg)
+  
+  ![Dim_eleme](img/el_olc.jpg)
+  
+  ![Dim eleme1](img/el_gidis.jpg)
   
   ## F)	Final Pisti Kuralları ve Pist Özellikleri
   1.	Final pistindeki yollar siyah dekota üzerinde beyaz çizgi ve/veya beyaz dekota üzerinde siyah çizgi şeklindedir.
