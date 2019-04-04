@@ -47,6 +47,8 @@
   2.	Robotların pist dışı unsurlardan etkilenmemesi adına uzaklık sensörlerinin 30 cm’den daha uzak mesafelere tepki vermemesi tavsiye edilir. Bununla ilgili itirazlar dikkate alınmayacaktır.
 
   3.	Robotlar darbelere dayanıklı yapılmalıdır. Yarışma sırasında robotlara gelen maddi zararlarda hakemler itiraz ve  sorumluluk  kabul etmez.
+    
+    
     D)	Eleme Pisti Kuralları ve Pist Özellikleri
     
   1.	Eleme pistindeki yollar siyah dekota üzerine beyaz çizgi şeklindedir.
