@@ -6,7 +6,9 @@
 
 ### Yarışmanın Amacı
   Bu kategoride robotlar, siyah dekota üzerinde beyaz çizgileri ve/veya beyaz dekota üzerinde siyah çizgileri takip ederek en kısa sürede ve en az ceza puanı ile tamamlamak için yarışırlar.
-    A)	Yarışma Kuralları
+   
+   
+   A)	Yarışma Kuralları
   1.	Her robot sırayla yarışır, bu sıralama yarışma günü web sitesinde duyurulur.
 
   2.	Yarışlar eleme pisti için başlangıç çizgisinde başlar, bitiş çizgisinde biter. Final pisti için de başlangıç çizgisinde başlar, bir tam tur sonucunda başlangıç çizgisinde biter.
