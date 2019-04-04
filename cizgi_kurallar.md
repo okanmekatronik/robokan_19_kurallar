@@ -2,7 +2,7 @@
 
 # Robokan'19 Çizgi İzleyen Kategorisi Kuralları
 
-### Diğer kategorilerde olduğu gibi İzleyen Kategorisinde de Genel Kurallar geçerlidir.
+### Diğer kategorilerde olduğu gibi Çizgi İzleyen Kategorisinde de Genel Kurallar geçerlidir.
 
  ### Yarışmanın Amacı
    Bu kategoride robotlar, siyah dekota üzerinde beyaz çizgileri ve/veya beyaz dekota üzerinde siyah çizgileri takip ederek en kısa sürede ve en az ceza puanı ile tamamlamak için yarışırlar.
