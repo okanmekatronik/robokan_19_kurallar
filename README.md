@@ -15,8 +15,8 @@ Eğer kurallarda bir problem olduğunu düşünüyorsanız [issues](https://gith
 - [X]  [Robokan Mini Sumo Robot Yarışması Kuralları](mini_sumo_kurallar.md)
 - [X]  [Robokan Arazi Robotu Yarışması Kuralları](arazi_kurallar.md)
 - [X]  [Robokan Serbest Kategori Yarışması Kuralları](serbest_kurallar.md)
-- [ ]  [Robokan Çizgi İzleyen Robot Yarışması Kuralları](cizgi_kurallar.md)
-- [ ]  [Robokan Hızlı Çizgi İzleyen Robot Yarışması Kuralları](hizli_cizgi_kurallar.md)
+- [X]  [Robokan Çizgi İzleyen Robot Yarışması Kuralları](cizgi_kurallar.md)
+- [X]  [Robokan Hızlı Çizgi İzleyen Robot Yarışması Kuralları](hizli_cizgi_kurallar.md)
 
 
 > Okan Üniversitesi Mekatronik Kulübü, herhangi bir gerekçe vermeden gerektiğinde kurallarda değişiklik yapma hakkını saklı tutar. 
