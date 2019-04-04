@@ -49,7 +49,8 @@
   3.	Robotlar darbelere dayanıklı yapılmalıdır. Yarışma sırasında robotlara gelen maddi zararlarda hakemler itiraz ve  sorumluluk  kabul etmez.
     
     
-    D)	Eleme Pisti Kuralları ve Pist Özellikleri
+    
+      D)	Eleme Pisti Kuralları ve Pist Özellikleri
     
   1.	Eleme pistindeki yollar siyah dekota üzerine beyaz çizgi şeklindedir.
   2.	Yol 400 mm genişliğinde 3 mm kalınlığında siyah dekota malzemeden yapılmıştır.
