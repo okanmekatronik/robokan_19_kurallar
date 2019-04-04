@@ -17,7 +17,7 @@
 
   4.	Yarışın	başlangıcı	ve	bitişi	yoldan	1	cm	yukarıda	bulunan algılayıcıların görmesi ile olacaktır.
 
-  5.	Yarışma zamana karşı yapılacak ve süre pist üzerindeki süreölçer ile tutulacaktır.
+  5.	Yarışma zamana karşı yapılacak ve süre pist üzerindeki süre ölçer ile tutulacaktır.
 
   6.	Yarışma sırasında mola, bakım veya tamir zamanı verilmez.
   7.	Yarışmacılar anons yapıldıktan itibaren maksimum 2 dakika içinde yarışma alanında olmalıdırlar.
@@ -88,7 +88,7 @@
   9.	Robot pistten çıktığında (yoldan tamamen çıkıp, normal zemine inmesi), çıktığı yerden piste tekrar konulur, bu arada  süre  durdurulur. Robot pisti tamamen terk etmediği sürece robota müdahale edilemez. Bu hak yalnızca hakemler tarafından verilebilir. Bu durumda robota 5 saniye yoldan çıkma cezası verilir. Toplamda 20 defa yoldan çıkma cezası alan robot diskalifiye edilir.
 
 
-  10.	Pistte bir adet (2) 9 lik yukarıya doğru rampa vardır. Ve bu rampanın belirli bir kısmında kesik çizgi mevcuttur.
+  10.	Pistte bir adet (±2) 9° lik yukarıya doğru rampa vardır. Ve bu rampanın belirli bir kısmında kesik çizgi mevcuttur.
 
   11.	Rampanın bitiminde etrafı tamamen kapalı bir tünel bulunmaktadır. Bu tünel içerisine beyaz ledler ile aydınlatma yapılacaktır. Tünel içerisinde robotun pistten çıkması durumunda 9. maddedeki yoldan çıkma cezası uygulanır.
 
@@ -98,7 +98,7 @@
 
   14.	 Final pistinin sonunda alternatifli iki  yol vardır. Robot bu yollardan birini tercih etmek durumundadır. Yollardan birinde beyaz dekota üzerine siyah çizgi engeli, diğerinde tahterevalli engeli bulunmaktadır. Her iki engel için engellerin tamamlanamaması durumunda ayrı ayrı 10 saniyeden toplamda 20 saniye ceza uygulanır. İki deneme sonucunda robot seçtiği engeli tamamlayamazsa engelin sonrasına bırakılır ve yarışmaya devam eder. 
 
-  15.	Final pistindeki tahterevallinin eğimi yaklaşık (2) 20 ’dir. Tahterevalli yolunu  kullanmak  zorunlu değildir. Alternatif yol bulunmaktadır.
+  15.	Final pistindeki tahterevallinin eğimi yaklaşık (±2°) 20° ’dir. Tahterevalli yolunu  kullanmak  zorunlu değildir. Alternatif yol bulunmaktadır.
   16.	Pistte bazı yerlerde yanıltıcı çizgi bulunmaktadır. İki çizgi arası boşluk 2 cm’dir.
   
   G) Final Pisti Çizimi ve Ölçüleri
