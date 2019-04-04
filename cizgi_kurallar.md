@@ -8,7 +8,7 @@
    Bu kategoride robotlar, siyah dekota üzerinde beyaz çizgileri ve/veya beyaz dekota üzerinde siyah çizgileri takip ederek en kısa sürede ve en az ceza puanı ile tamamlamak için yarışırlar.
    
    
-   A)	Yarışma Kuralları
+ ## A)	Yarışma Kuralları
   1.	Her robot sırayla yarışır, bu sıralama yarışma günü web sitesinde duyurulur.
 
   2.	Yarışlar eleme pisti için başlangıç çizgisinde başlar, bitiş çizgisinde biter. Final pisti için de başlangıç çizgisinde başlar, bir tam tur sonucunda başlangıç çizgisinde biter.
@@ -28,7 +28,7 @@
   10.	İhtilafa düşülen bütün konularda hakem heyetinin kararı geçerli olacaktır.
     
     
-   B)	Diskalifiye Kararları
+ ## B)	Diskalifiye Kararları
     
   1.	Yarışmacıların kendisinden bir önceki yarışmacı yarışırken hakem masasında hazır bulunması gerekmektedir. Anons yapıldıktan itibaren maksimum 2 dakika içinde hakem masasında bulunmayan yarışmacılar diskalifiye edilir.
 
@@ -50,7 +50,7 @@
     
     
     
- D)	Eleme Pisti Kuralları ve Pist Özellikleri
+ ## D)	Eleme Pisti Kuralları ve Pist Özellikleri
     
   1.	Eleme pistindeki yollar siyah dekota üzerine beyaz çizgi şeklindedir.
   2.	Yol 400 mm genişliğinde 3 mm kalınlığında siyah dekota malzemeden yapılmıştır.
@@ -65,11 +65,11 @@
 
   7.	Pist üzerinde, gitmeniz gereken doğru yolu gösteren kısa çizgiler vardır. Örneğin gitmeniz gereken doğru yol sol taraftan ise kısa çizgi orta çizginin sağından dekotanın bitişine kadardır. Bu kısa çizgi, girişlerden 15 cm önce bulunmaktadır.
   
-  E)	Eleme Pisti Çizimi ve Ölçüleri
+  ## E)	Eleme Pisti Çizimi ve Ölçüleri
      ![Dim_eleme](img/el_olc.jpg)
      ![Dim eleme1](img/el_gidis.jpg)
   
-  F)	Final Pisti Kuralları ve Pist Özellikleri
+  ## F)	Final Pisti Kuralları ve Pist Özellikleri
   1.	Final pistindeki yollar siyah dekota üzerinde beyaz çizgi ve/veya beyaz dekota üzerinde siyah çizgi şeklindedir.
 
   2.	Yol 400 mm genişliğinde 3 mm kalınlığında siyah ve beyaz dekota malzemeden yapılmıştır.
@@ -101,7 +101,7 @@
   15.	Final pistindeki tahterevallinin eğimi yaklaşık (±2°) 20° ’dir. Tahterevalli yolunu  kullanmak  zorunlu değildir. Alternatif yol bulunmaktadır.
   16.	Pistte bazı yerlerde yanıltıcı çizgi bulunmaktadır. İki çizgi arası boşluk 2 cm’dir.
   
-  G) Final Pisti Çizimi ve Ölçüleri
+  ## G) Final Pisti Çizimi ve Ölçüleri
   
   
   
