@@ -26,6 +26,8 @@
   9.	Robot	pisti	tamamen	terk	etmediği	sürece	robota	müdahale edilemez. Bu hak yalnızca hakemler tarafından verilebilir.
 
   10.	İhtilafa düşülen bütün konularda hakem heyetinin kararı geçerli olacaktır.
+    
+    
     B)	Diskalifiye Kararları
     
   1.	Yarışmacıların kendisinden bir önceki yarışmacı yarışırken hakem masasında hazır bulunması gerekmektedir. Anons yapıldıktan itibaren maksimum 2 dakika içinde hakem masasında bulunmayan yarışmacılar diskalifiye edilir.
