@@ -67,6 +67,8 @@
   
   E)	Eleme Pisti Çizimi ve Ölçüleri
      ![Dim_eleme](img/el_olc.jpg)
+     
+     ![Dim eleme1](img/el_gidis.jpg)
   
   F)	Final Pisti Kuralları ve Pist Özellikleri
   1.	Final pistindeki yollar siyah dekota üzerinde beyaz çizgi ve/veya beyaz dekota üzerinde siyah çizgi şeklindedir.
