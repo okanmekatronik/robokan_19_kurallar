@@ -84,7 +84,7 @@
   5.	Robot başlangıç çizgisinden geçtiğinde, sensörün algılaması ile kronometre saymaya başlayacaktır. Hakemin işaretinden sonra, start yapamayan robota 10 saniye ceza puanı verilir ve tekrar start  yapması için bir hak daha verilir. Yarışmacıların 3 start hakkı vardır. (Her start yapamama durumunda ayrı ayrı 10 saniye ceza puanı verilir.)
 
   6.	Final pistinin bazı bölgelerinde kesik çizgiler bulunmaktadır. Bu çizgilerin boyutu 10cm, bir sonraki çizgi ile arasındaki boşluk 5cm’dir.
-    7.	Pistte bir adet kuş gözü bulunmaktadır. Bu kuş gözünden dönmek yerine direkt yola devam ederse hakem uyarısı ile süre dondurularak kuş gözünün girişinden 15 cm öncesine konulur ve kuş gözüne girmesi beklenir. Robot ikinci seferde de kuş gözünü atlar ise hakem kararı ile kuş gözünün çıkışına konur ve ayrı ayrı 10 saniye toplamda 20 saniye ceza uygulanır.
+  7.	Pistte bir adet kuş gözü bulunmaktadır. Bu kuş gözünden dönmek yerine direkt yola devam ederse hakem uyarısı ile süre dondurularak kuş gözünün girişinden 15 cm öncesine konulur ve kuş gözüne girmesi beklenir. Robot ikinci seferde de kuş gözünü atlar ise hakem kararı ile kuş gözünün çıkışına konur ve ayrı ayrı 10 saniye toplamda 20 saniye ceza uygulanır.
 
   8.	Pistte çıkmaz yollar bulunmaktadır. Bu yola girildiğinde, pistten çıkana kadar robota müdahale edilmez. Pistten çıkması ile birlikte robot çıkmaz yolun girişine yeniden koyulur ve 5 sn yoldan çıkma cezası kesilir. İkinci seferde de aynı hatayı yapan robota  yeniden  5 sn ceza kesilir ve çıkmaz yol ayrımının hemen bitişine robot konulur.
 
