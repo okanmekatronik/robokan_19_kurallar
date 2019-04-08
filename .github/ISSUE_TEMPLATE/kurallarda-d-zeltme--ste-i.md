@@ -1,9 +1,9 @@
 ---
 name: Kurallarda Düzeltme İsteği
 about: 'Kurallarda hatalı olduğunu düşündüğünüz yerleri bizimle paylaşabilirsiniz. '
-title: "[Hatalı Kural]"
-labels: bug
-assignees: ''
+title: "[Hatalı Olan Kuralın Numarası (Ör. Arazi Kuralları 1.3)]"
+labels: Kurallar Hakkında
+assignees: YasinnErdemm
 
 ---
 

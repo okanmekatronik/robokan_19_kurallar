@@ -1,8 +1,8 @@
 ---
 name: Kurallarda Açıklama
 about: 'Yeterince Açık olmadığını düşündüğünüz kuralları bizimle paylaşabilirsiniz. '
-title: "[Açık Olmayan Kural]"
-labels: enhancement
+title: "[Açık Olmayan Kuralın Numarası (Ör. Arazi Kuralları 1.3)]"
+labels: Kurallar Hakkında
 assignees: ''
 
 ---
