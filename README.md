@@ -1,8 +1,10 @@
 # [Robokan'19](https://robokan.com)
 
+[![cc](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.tr)
+
+
 Robokan'19 Yarışmasına [buradan](https://register.robokan.com) kayıt olabilirsiniz
 
-Robokan'19 Robot Yarışması kayıt aşamaları
 
 Robokan'19 Robot Yarışması için kurallara buradan ulaşabilirsiniz. 
 
