@@ -45,6 +45,8 @@ Yaprak-Dal-Çalı|50 Puan
 Çakıl Taşı|50 Puan 
 Toprak|50 puan 
 Rampa|50 puan 
+Talaş|50 puan
 
+ ![Arazi](arazi.jpg)
 
 > Okan Üniversitesi Mekatronik Kulübü, herhangi bir gerekçe vermeden gerektiğinde kurallarda değişiklik yapma hakkını saklı tutar.
