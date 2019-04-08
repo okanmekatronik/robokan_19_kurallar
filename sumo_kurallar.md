@@ -76,6 +76,8 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 
 ### Sumo robotlarda kullanılacak Başlatma/Durdurma devresi teknik özellikleri aşağıdaki gibi olacaktır.
 
+![Baslat](img/baslat.png)
+
 - 1 adet lojik pin kullanarak robotlarınız ile haberleşir.
 - Başlatma komutunu aldığında lojik 0 veya 1 sinyali verir.
 - Besleme gerilimi: 3.3V – 5V
