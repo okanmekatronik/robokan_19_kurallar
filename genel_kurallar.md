@@ -17,7 +17,7 @@ Okan Üniversitesi Mekatronik Kulübü tarafından dördüncü kez düzenlenecek
 	6. Uygulama üzerinden kayıt olan yarışmacıların, organizasyon günü kurulacak olan kayıt masasından kayıtlarını onaylatmaları ve katılımcı kartlarını almaları gerekmektedir.
 	7. Yarışma ödüllerimiz arasında bulunan %100 Lisans Eğitim Bursunu kazanan yarışmacı için bu hak sınava girebileceği ilk yıl kullanılmak üzere geçerlidir. Örneğin 9. Sınıfa giden bir kişinin hakkı 12. Sınıfta geçerliliğini koruyacaktır. 12. Sınıfta sınava girdikten sonra üniversiteye giriş hakkını kazanması durumunda lisans bursu okulumuz tarafından kendisine tanınacaktır ve tüm eğitim yılları için geçerli olacaktır. Bursu kazanmanız demek, okula kesin kaydolacaksınız anlamına gelmemektedir. ÖSYM tarafında belirli bölümlerde, bölüme giriş puanının tutturulamaması yada ücretli bölümünün kazanılamaması durumunda bizlerin yapabileceği hiçbir şey bulunmamaktadır. Bu durumda burs hakkınızı kaybedersiniz.
 2. Organizasyon Düzeni
-	1. Organizasyona katılan her okul ya da grup için robotlarıyla ilgilenmeleri ve eşyalarını yerleştirmeleri amacıyla bir adet masa ayrılacaktır.
+	1. Organizasyona katılan her takım için robotlarıyla ilgilenmeleri ve eşyalarını yerleştirmeleri amacıyla bir adet masa ayrılacaktır.
 	2. Organizasyon sırasında masalara yerleşim konusunda kat görevlilerinin uyarıları dikkate alınmalıdır.
 	3. 10 robottan daha fazlasına sahip olmadığı sürece aynı okula veya gruba ikinci bir masa verilmeyecektir.
 	4. Serbest Kategori haricindeki kategorilerde yarışan ekiplere pano verilmeyecektir. Serbest Kategorideki yarışmacıların afişlerini 50cm x 70cm ölçülerinde yaptırması gerekmektedir. Aksi takdirde oluşacak sorunlardan Okan Mekatronik Kulübü sorumlu tutulamaz.
