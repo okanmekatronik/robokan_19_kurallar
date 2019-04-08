@@ -119,11 +119,23 @@
   
 
 
-
-
-
   
-  ![Son](img/tahtabeyaz.jpeg)
+  ![On](img/final3d.jpeg)
+
+
+
+  ![Tunel](img/tunel.jpeg)
+
+
+
+
+
+  ![Son3](img/final3.jpeg)
+
+
+  ![Sol](img/sol.jpeg)
+
+  ![Son1](img/bitis.jpeg)
   
   
   
@@ -132,7 +144,7 @@
   
   
   
-  ![Yanıltma](img/sasirt.png)
+  ![Yanıltma](img/yaniltici.jpeg)
   
   
   
