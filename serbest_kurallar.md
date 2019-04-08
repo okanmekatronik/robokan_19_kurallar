@@ -17,7 +17,7 @@ Serbest kategorisinde yarışmacılar projelerini özgün bir ortamda üç gün 
 	1. Projeler kategori değerlendirme kıstaslarına göre değerlendirilecektir ve her kriter için 20 üzerinden puanlama yapılacaktır.  
 	2. Yarışmacılara projelerinin sergilenmesi için masa tahsis edilecek ve masalara elektrik hattı çekilecektir.
 	3. Yarışma günleri boyunca projelerin sorumluluğu tamamen yarışmacılara aittir. 
-	4. Yarışma tarihinden 1 hafta öncesine kadar yarışmacının yarışmaya katılacağı robot ile ilgili ayrıntılı ve anlaşılır bir rapor hazırlayıp serbest@robokan.com adresine göndermesi gerekmektedir. Bu süre içerisinde raporlarını göndermeyen yarışmacılar yarışmaya katılamayacaklardır.  
+	4. Yarışma tarihinden 1 hafta öncesine kadar yarışmacının yarışmaya katılacağı robot ile ilgili ayrıntılı ve anlaşılır bir rapor hazırlayıp info@robokan.com adresine göndermesi gerekmektedir. Bu süre içerisinde raporlarını göndermeyen yarışmacılar yarışmaya katılamayacaklardır.  
 	5. Gönderilen raporlar doğrultusunda ön eleme yapılacak ve ön elemeyi geçen robotlar yarışmaya kabul edilecektir.
 	6. Ön değerlendirmeyi geçememiş olan takımlar yarışmaya kesinlikle alınmayacaktır. 
 	7. Raporda tasvir edilip tanıtılan robot ile yarışmaya gelen robot birebir aynı olmalıdır, olmaması durumunda yarışmacı diskalifiye olur.  
