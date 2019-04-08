@@ -23,6 +23,9 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 	4. Ağırlık sınırı 500 g’dir. %2’lik hata payı vardır. (10 gr) 
 	5. Boyutlar karşılaşma başladıktan sonra değişebilir. 
 4. Robotların Dohyoya Yerleşim Koşulları  
+
+      ![Mini](img/mini.jpg)
+
 	1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Zemine ilk değen robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa  maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.  
 	2. Hakem robotun karşılaşmaya hazırlanması için işareti verdikten itibaren 4 dakika içinde ringe gelmeyen robot hükmen yenik sayılır.  
 	3. Hakem hazırlık için işaret verdikten sonra yarışmacılar robotlarını dohyoya şekilde görüldüğü gibi kahverengi çizgiyi (Bu çizgi pistte hayali olarak varsayılacaktır) geçmeyecek şekilde yerleştirmek için hazır olmalıdırlar. Hakemin robotları yerleştirin işareti ile yarışmacılar aynı anda robotlarını kural dahilinde istedikleri yere yerleştirebilirler.(Örneğin üst taraftaki görselde gösterildiği gibi)
@@ -74,6 +77,9 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 	7. Yarışmacı kasıtlı olarak rakibine ve/veya rakibin robotuna zarar verirse. 
 
 ### Sumo robotlarda kullanılacak Başlatma/Durdurma devresi teknik özellikleri aşağıdaki gibi olacaktır.  
+
+![Baslat](img/baslat.png)
+
 Teknik Özellikler: 
 
 - 1 adet lojik pin kullanarak robotlarınız ile haberleşir. 
