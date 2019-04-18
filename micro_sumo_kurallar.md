@@ -28,11 +28,11 @@ kuralları çerçevesinde alan dışına atmaya çalışmaktadır.
 	5. Boyutlar karşılaşma başladıktan sonra değişebilir.
 4. Robotların Dohyoya Yerleşim Koşulları
 
-	![Mikro](img/micro.jpg)
+	![Mikro](img/micro.jpg)  ![Mikro2](img/micro.jpeg)
 
-      1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Zemine ilk değen robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.
+      1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Dohyo sınırlarını ilk terk robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.
 	2. Hakem robotun karşılaşmaya hazırlanması için işareti verdikten itibaren 4 dakika içinde ringe gelmeyen robot hükmen yenik sayılır.
-	3. Hakem hazırlık için işaret verdikten sonra yarışmacılar robotlarını dohyoya şekilde görüldüğü gibi kahverengi çizgiyi (Bu çizgi pistte hayali olarak varsayılacaktır) geçmeyecek şekilde yerleştirmek için hazır olmalıdırlar. Hakemin robotları yerleştirin işareti ile yarışmacılar aynı anda robotlarını kural dahilinde istedikleri yere yerleştirebilirler. (Örneğin üst taraftaki görselde gösterildiği gibi)
+	3. Hakem hazırlık için işaret verdikten sonra yarışmacılar robotlarını dohyoya şekilde görüldüğü gibi kahverengi çizgiyi (Bu çizgi pistte hayali olarak varsayılacaktır) geçmeyecek şekilde yerleştirmek için hazır olmalıdırlar. Hakemin robotları yerleştirin işareti ile yarışmacılar aynı anda robotlarını kural dahilinde istedikleri yere yerleştirebilirler. (Örneğin üst taraftaki görsellerde gösterildiği gibi)
 	4. Dohyoya yerleştirilen robotun yeri sonradan değiştirilemez. Robotların sonradan yerlerinin değiştirilmesi diskalifiye sebebidir.
 5. Robotların Yapımındaki Yasak Maddeler
 	1. Çalışma dalga boyunu (frekansını) etkileyen, rakibin çalışmasını etkileyen (flaşör, ışık gibi) her türlü parça yasaklanmıştır.
@@ -43,7 +43,7 @@ kuralları çerçevesinde alan dışına atmaya çalışmaktadır.
 	6. Robota herhangi bir atıcı cihaz eklenemez.
 	7. Dohyonun yüzeyine kendini sabitleyen ve hareket etmesini engelleyen hiçbir parça robota takılmaz. (örneğin emici vakum, yapıştırıcı vb.)
 6. Oyunun İlkeleri
-	1. Robotlar rakipleri ile raunt usulü maç yaparlar. Rauntlar 2 dakikadan oluşmaktadır, 2 dakikalık süre robotların çalıştırıldığı anda başlar. Bu süre pistten ilk çıkan robot yenik sayılır.
+	1. Robotlar rakipleri ile raunt usulü maç yaparlar. Rauntlar 2 dakikadan oluşmaktadır, 2 dakikalık süre robotların çalıştırıldığı anda başlar. Bu süre dohyo sınırlarını ilk terk eden robot yenik sayılır.
 	2. 2 raundu alan robot maçı kazanır. Eşitlik durumunda 1 raunt daha yapılır. Eşitlik hala devam ediyorsa, robotun özellikleri (hafif olan robot) göz önünde bulundurularak hakem kararına göre kazanan belirlenir.
 	3. Robotların eşitlik durumlarının tanımlanması şu şekildedir: (Karşılaşmanın tekrar edilmesi başlığı altında da bu durumlar izah edilmiştir)
 		1. Robotların oyun içinde belirtilen süre zarfında birbirlerine takılı kalması ve hareketlerinin olmaması durumu.
