@@ -24,11 +24,11 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 	6. Boyutlar karşılaşma başladıktan sonra değişebilir. 
 4. Robotların Dohyoya Yerleşim Koşulları 
 
-      ![yerlesim](img/sumo.jpg)
+      ![yerlesim](img/sumo.jpg) ![sumo](img/sumo.jpeg)
       
-	1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Zemine ilk değen robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.  
+	1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Dohyo sınırlarını ilk terk eden robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir. 
 	2. Hakem robotun karşılaşmaya hazırlanması için işareti verdikten itibaren 4 dakika içinde ringe gelmeyen robot hükmen yenik sayılır.
-	3. Hakem hazırlık için işaret verdikten sonra yarışmacılar robotlarını dohyoya şekilde görüldüğü gibi kahverengi çizgiyi (Bu çizgi pistte hayali olarak varsayılacaktır) geçmeyecek şekilde yerleştirmek için hazır olmalıdırlar. Hakemin robotları yerleştirin işareti ile yarışmacılar aynı anda robotlarını kural dahilinde istedikleri yere yerleştirebilirler.(Örneğin üst taraftaki görselde gösterildiği gibi)
+	3. Hakem hazırlık için işaret verdikten sonra yarışmacılar robotlarını dohyoya şekilde görüldüğü gibi kahverengi çizgiyi (Bu çizgi pistte hayali olarak varsayılacaktır) geçmeyecek şekilde yerleştirmek için hazır olmalıdırlar. Hakemin robotları yerleştirin işareti ile yarışmacılar aynı anda robotlarını kural dahilinde istedikleri yere yerleştirebilirler.(Örneğin üst taraftaki görsellerde gösterildiği gibi)
 	4. Dohyoya yerleştirilen robotun yeri sonradan değiştirilemez. Robotların sonradan yerlerinin değiştirilmesi diskalifiye sebebidir. 
 5. Robotların Yapımındaki Yasak Maddeler
 	1. Çalışma dalga boyunu (frekansını) etkileyen, rakibin çalışmasını etkileyen (flaşör, ışık gibi) her türlü parça yasaklanmıştır. 
@@ -41,7 +41,7 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 	7. Dohyonun yüzeyine kendini sabitleyen ve hareket etmesini engelleyen hiçbir parça robota takılmaz. (örneğin emici vakum, yapıştırıcı vb.)
 	8. Robotlar zemine tutunmayı arttıracak şekilde yapışkan vb. maddeler kullanamazlar. Piste zarar vermeyecek şekilde mıknatıs kullanılabilir. Robotlar bir kâğıdın üzerine konulup kaldırıldığında kâğıdı kaldırmamalıdır.
 6. Oyunun İlkeleri
-	1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Zemine ilk değen robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir. 
+	1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Dohyo sınırlarını ilk terk eden robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.
 	2. Hakem robotun karşılaşmaya hazırlanması için işareti verdikten itibaren 4 dakika içinde ringe gelmeyen robot hükmen yenik sayılır.
 	3. İki robot arasındaki karşılaşma sonlanmadan robotlara her türlü bakım ve müdahale yasaktır. (Ancak raunt arasında 3 dakikalık teknik müdahale serbesttir. 3 dakikalık teknik mola sonunda yarış alanına gelmeyen takımlar yenik sayılır. Yarışmacılar, tüm yarışlar boyunca teknik mola hakkını 3 kez kullanabilirler. Finale kalan yarışmacılar teknik mola hakları bitmiş olsa dahi 1 kez daha teknik mola hakkını kullanabilirler)
 	4. Maç öncesinde 4 dakikalık bekleme süresi esnasında, yarışmacı bir şey olması halinde robotuna müdahale etmek amacıyla 3 dakikalık teknik mola alma hakkına sahiptir. (Maç başlamadan önce bu teknik mola sadece 1 kez alınabilir)
@@ -52,7 +52,7 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 		2) Robotlardan herhangi birinin kazanması mümkün görünmüyor ise. 
 	8. Robottan yere parça düşerse, düşen parça diğer robotu engellemediği takdirde raunda devam edilir. Ancak hakem parçanın diğer robotu engellediği kararına varırsa parça kaybeden robot raundu kaybetmiş sayılır. 
 	9. Robotların her ikisi de yenilmeyi gerektiren kural ihlali* ile karşılaşırsa raunt tekrar edilir. 
-	10. Robotlardan birinin otonom olarak hiç hareket etmemesi durumundarakip robot kural  ihlali* yapsa bile raunt tekrarlanır.
+	10. Robotlardan birinin otonom olarak hiç hareket etmemesi durumunda rakip robot kural ihlali* yapsa bile raunt tekrarlanır.
 7. Karşılaşmanın Başlaması
 	1. Hakemler dohyoların durumlarını kontrol ettikten sonra karşılaşmaların başlamasına onay vereceklerdir. Eğer dohyo üzerinde çizik ya da kir olursa hakemler bu dohyonun kullanılıp kullanılmayacağına karar vereceklerdir.
 	2. Karşılaşma, hakem işareti ile yarışmacıların robotlarını başlama konumlarına aynı anda koymasıyla başlayacaktır. (Başlama konumları robotların dohyoya yerleşim koşullarında belirtilmiştir)
@@ -74,7 +74,6 @@ Robotlar belirtilen süre içerisinde birbirlerini, belirtilen dohyo alanı kura
 	5. Otonom olma şartlarını gerçekleştiremezse. 
 	6. Yarışmacı sportmenlik dışı davranışlar gösterirse. Örneğin saldırgan bir dil kullanırsa, rakibe ve hakeme saldırırsa. 
 	7. Yarışmacı kasıtlı olarak rakibine ve/veya rakibin robotuna zarar verirse. 
-
 > *Kural ihlali: Robotun raundu kaybetmesine sebep olacak durumlardır. 
 
 ### Sumo robotlarda kullanılacak Başlatma/Durdurma devresi teknik özellikleri aşağıdaki gibi olacaktır.
