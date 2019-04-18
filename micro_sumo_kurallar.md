@@ -28,7 +28,7 @@ kuralları çerçevesinde alan dışına atmaya çalışmaktadır.
 	5. Boyutlar karşılaşma başladıktan sonra değişebilir.
 4. Robotların Dohyoya Yerleşim Koşulları
 
-	![Mikro](img/micro.jpg)  ![Mikro2](img/micro.jpeg)
+	![Mikro](img/micro.jpg)  ![Mikro1](img/micro.jpeg)
 
       1. Her robot kendi grubundaki diğer robotlarla raunt usulü maç yapacaktır. Dohyo sınırlarını ilk terk robot kaybeder. Her raunt en fazla 2 dakikadır ve 2 dakikalık süre robotların çalıştırıldığı anda başlar. 2 raundu alan robot maçı kazanır. 3 raunt sonunda eşitlik bozulmamışsa maçın galibi robotların ağırlığına göre (hafif olan robot) belirlenir.
 	2. Hakem robotun karşılaşmaya hazırlanması için işareti verdikten itibaren 4 dakika içinde ringe gelmeyen robot hükmen yenik sayılır.
